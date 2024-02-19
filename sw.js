@@ -31,7 +31,7 @@ const APP_SHELL_STATIC = [
 const APP_SHELL_INMUTABLE = [
   "https://fonts.googleapis.com/css?family=Quicksand:300,400",
   "https://fonts.googleapis.com/css?family=Lato:400,300",
-  "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
+  "https://use.fontawesome.com/releases/v5.3.1/css/all.css",
   "css/animate.css",
   "js/libs/jquery.js",
 ];

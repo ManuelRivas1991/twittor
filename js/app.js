@@ -1,5 +1,6 @@
 var url = window.location.href;
-var swLocation = '/twittor/sw.js';
+var path = "twittor";
+var swLocation = `/${path}/sw.js`;
 
 
 if (navigator.serviceWorker) {
